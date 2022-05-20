@@ -35,7 +35,7 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
            myLife.🔭 = "I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring.";
            myLife.🌱 = "I’m currently learning System.Collections.Generic in C#.";
            myLife.👯 = "I’m looking to collaborate on Back-end software development.";
-           myLife.🤔 = "I’m looking for help with IEnumerables ({🙃}).");
+           myLife.🤔 = $"I’m looking for help with IEnumerables. {🙃}");
         }
         
         return myLife;
