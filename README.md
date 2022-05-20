@@ -11,13 +11,13 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
 
     public life Thiago(organic body, methaphisic mind)
     {
-        foreach (var day in days)
+        foreach (Life day in days)
         {
            return day.Add( +
-           🎓: I'm currently on my 8th month of study in SENAC/SP."), +
-           🔭: I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring."),
-           🌱: I’m currently learning C# and MySql."), +
-           👯: I’m looking to collaborate on Back-end software development."), +
-           🤔: I’m looking for help with IEnumerables ({🙃}).")
+           🎓: "I'm currently on my 8th month of study in SENAC/SP.", +
+           🔭: "I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring.",
+           🌱: "I’m currently learning C# and MySql.", +
+           👯: "I’m looking to collaborate on Back-end software development.", +
+           🤔: "I’m looking for help with IEnumerables ({🙃}).")
         }
     }
