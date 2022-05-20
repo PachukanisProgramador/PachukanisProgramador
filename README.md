@@ -1,7 +1,7 @@
 ### Hi there 👋
 Bachalor degree in Laws and programming lover that want to make a carreer path in software development. I'm a fast learner and current looking for a oportunity in the area.
 
-Curent on my 8th month of study.
+Curent on my 8th month of study in SENAC/SP.
 
 I'M IN LOVE with what I'm doing. ❤
 
@@ -9,7 +9,7 @@ I'M IN LOVE with what I'm doing. ❤
 
 Look at my repositories and see for yourself!
 
-- 🔭 I’m currently working on ReclameAcesso and EstacionaMentos refactoring.
+- 🔭 I’m currently working on ReclameAcesso and EstacionaMentos (both my on repositories)refactoring.
 - 🌱 I’m currently learning C# and MySql.
 - 👯 I’m looking to collaborate on Back-end software developer.
 - 🤔 I’m looking for help with IEnumerables (🙃).
