@@ -20,7 +20,7 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
            day.🌱 = "I’m currently learning System.Collections.Generic in C#.";
            day.👯 = "I’m looking to collaborate on Back-end software development.";
            day.🤔 ="I’m looking for help with IEnumerables ({🙃}).");
-           
-           return day;
         }
+        
+        return day;
     }
