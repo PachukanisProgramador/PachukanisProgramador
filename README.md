@@ -13,14 +13,16 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
 
     public life Thiago(IEnumerable<Existence> days)
     {       
+        life myLife = new life();
+        
         foreach (Existence day in days)
         {
-           day.🎓 = "I'm currently on my 8th month of study in SENAC/SP.";
-           day.🔭 = "I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring.";
-           day.🌱 = "I’m currently learning System.Collections.Generic in C#.";
-           day.👯 = "I’m looking to collaborate on Back-end software development.";
-           day.🤔 ="I’m looking for help with IEnumerables ({🙃}).");
+           myLife.🎓 = "I'm currently on my 8th month of study in SENAC/SP.";
+           myLife.🔭 = "I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring.";
+           myLife.🌱 = "I’m currently learning System.Collections.Generic in C#.";
+           myLife.👯 = "I’m looking to collaborate on Back-end software development.";
+           myLife.🤔 = "I’m looking for help with IEnumerables ({🙃}).");
         }
         
-        return day;
+        return myLife;
     }
