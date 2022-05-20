@@ -11,7 +11,7 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
 
     public life Thiago(organic body, methaphisic mind)
     {
-        foreach (Life day in days)
+        foreach (Existence day in days)
         {
            return day.Add( +
            🎓: "I'm currently on my 8th month of study in SENAC/SP.", +
