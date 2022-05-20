@@ -11,7 +11,7 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
 
 ![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif)
 
-[![image]({[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)})](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white})
 
     public life Thiago(IEnumerable<Existence> days)
     {       
