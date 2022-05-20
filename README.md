@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 Bachalor degree in Laws and programming lover that want to make a carreer path in software development. I'm a fast learner and current looking for a oportunity in the area.
 
 I'M IN LOVE ❤ with what I'm doing. Look at my repositories and see for yourself!
