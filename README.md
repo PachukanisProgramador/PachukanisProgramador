@@ -8,15 +8,16 @@ I'M IN LOVE ❤ with what I'm doing. Look at my repositories and see for yoursel
 In short, just give me a PC with keyboard and I will be pleased. 😁
 
 ![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif)
- - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-    public human Thiago(organic body)
+
+    public life Thiago(organic body)
     {
-    ![#f03c15](foreach) `#f03c15` (var day in years)
+        foreach (var day in days)
         {
-            Console.WriteLine($"{🎓} I'm currently on my 8th month of study in SENAC/SP.");
-            Console.WriteLine($"{🔭} I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring.");
-            Console.WriteLine($"{🌱} I’m currently learning C# and MySql.");
-            Console.WriteLine($"{👯} I’m looking to collaborate on Back-end software development.");
-            Console.WriteLine($"{🤔} I’m looking for help with IEnumerables ({🙃}).");
+           return day.Add( +
+           🎓: I'm currently on my 8th month of study in SENAC/SP."), +
+           🔭: I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring."),
+           🌱: I’m currently learning C# and MySql."), +
+           👯: I’m looking to collaborate on Back-end software development."), +
+           🤔: I’m looking for help with IEnumerables ({🙃}).")
         }
     }
