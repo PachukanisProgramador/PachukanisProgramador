@@ -11,7 +11,7 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
 
     public human Thiago(organic body)
     {
-        - ![#f03c15](foreach)`#f03c15` (var day in years)
+        - ![#f03c15](foreach) `#f03c15` (var day in years)
         {
             Console.WriteLine($"{🎓} I'm currently on my 8th month of study in SENAC/SP.");
             Console.WriteLine($"{🔭} I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring.");
