@@ -9,7 +9,7 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
 
 ![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif)
 
-    public life Thiago(organic body)
+    public life Thiago(organic body, methaphisic mind)
     {
         foreach (var day in days)
         {
