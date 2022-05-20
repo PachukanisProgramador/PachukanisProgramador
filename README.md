@@ -5,11 +5,13 @@ Curent on my 8th month of study in SENAC/SP.
 
 I'M IN LOVE with what I'm doing. ❤
 
+Just give me a PC with keyboard and I will be pleased. 😁
+
 ![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif)
 
 Look at my repositories and see for yourself!
 
-- 🔭 I’m currently working on ReclameAcesso and EstacionaMentos (both my on repositories)refactoring.
+- 🔭 I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring.
 - 🌱 I’m currently learning C# and MySql.
-- 👯 I’m looking to collaborate on Back-end software developer.
+- 👯 I’m looking to collaborate on Back-end software development.
 - 🤔 I’m looking for help with IEnumerables (🙃).
