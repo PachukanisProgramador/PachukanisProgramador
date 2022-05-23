@@ -17,6 +17,10 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
 ### My newest and best creation so far
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PachukanisProgramador/ReclameAcesso.git)
 
+### My Online Resume
+
+[![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAFBQtGlF3k/IF_0ZPheTfFwCFXp9IjkoA/view?utm_content=DAFBQtGlF3k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### Social Medias
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lutten-leitão-215794152/)
