@@ -23,7 +23,7 @@ In short, just give me a PC with keyboard and I will be pleased. 😁
 
 ### Social Medias
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiago-lutten-leitao)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lutten-leitao/)
 
 
 ### A little more about me!
