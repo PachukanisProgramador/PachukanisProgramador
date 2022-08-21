@@ -3,11 +3,7 @@
 
 Bachalor degree in Laws and programming lover that want to make a carreer path in software development. I'm a fast learner and current looking for a oportunity in the area.
 
-I'M IN <img src="https://miro.medium.com/max/512/1*kgyyxE1QgbNQpBqgvVun5w.gif" width="30" height="30"> with what I'm doing. Look at my repositories and see for yourself!
-
-In short, just give me a PC with keyboard and I will be pleased. 😁
-
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif" width="350" height="200">
+I'm in love with what I'm doing. Look at my repositories and see for yourself!
 
 ### Knowledges
 
