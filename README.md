@@ -1,10 +1,11 @@
-### Welcome! 👋
+<h1 align='center'>Welcome! 👋</h1>
 <div>
     <img src="https://vandal-us.s3.amazonaws.com/spree/products/87389/original/open-uri20181205-14-1jhhgr4.jpg" width=100%>
 </div>
-Bachalor degree in Laws and programming lover that want to make a carreer path in software development. I'm a fast learner and current looking for a oportunity in the area.
+<br>
+<p align='justify'>Bachalor degree in Laws and programming lover that want to make a carreer path in software development. I'm a fast learner and current looking for a oportunity in the area.
 
-I'm in love with what I'm doing. Look at my repositories and see for yourself!
+I'm in love with what I'm doing. Look at my repositories and see for yourself!</p>
 
 ### Knowledges
 
