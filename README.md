@@ -31,6 +31,7 @@ I'm in love with what I'm doing. Look at my repositories and see for yourself!</
 ### Social Medias
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lutten-leitao/)
 <br><br>
+[![Thiago Lutten's GitHub stats](https://github-readme-stats.vercel.app/api?username=PachukanisProgramador&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## A little more about me!
 
     public life Thiago(IEnumerable<Existence> days)
@@ -39,11 +40,11 @@ I'm in love with what I'm doing. Look at my repositories and see for yourself!</
         
         foreach (Existence day in days)
         {
-           myLife.🎓 = "I'm currently on my 8th month of study in SENAC/SP.";
-           myLife.🔭 = "I’m currently working on ReclameAcesso and EstacionaMentos (both my repositories) refactoring.";
-           myLife.🌱 = "I’m currently learning System.Collections.Generic in C#.";
+           myLife.🎓 = "I'm currently on my 12th month of study in SENAC/SP and first halfyear in Software Engineer bachalor.";
+           myLife.🔭 = "I’m currently working on Linko API (not published yet)";
+           myLife.🌱 = "I’m currently learning React Native";
            myLife.👯 = "I’m looking to collaborate on Back-end software development.";
-           myLife.🤔 = $"I’m looking for help with ASP.NET and asynchronous programming. {🤤}");
+           myLife.🤔 = $"I’m looking for help with basics of React Native. {🤤}");
         }
         
         return myLife;
