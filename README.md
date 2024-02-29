@@ -1,9 +1,5 @@
 <h1 align='center'>Welcome! 👋</h1>
 <br><br>
-<div>
-    <img slign='center' width='1400' height='300' src="https://vandal-us.s3.amazonaws.com/spree/products/87389/original/open-uri20181205-14-1jhhgr4.jpg">
-</div>
-<br>
 <p align='justify'>Bachalor degree in Laws and programming lover that want to make a carreer path in software development. I'm a fast learner and current looking for a oportunity in the area.
 
 I'm currently finishing my studies in SENAC/SP as Informatic Technician and heading on my first year as Software Engineer bachalor.
