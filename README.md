@@ -24,7 +24,7 @@ I'm in love with what I'm doing. Look at my repositories and see for yourself!</
  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PachukanisProgramador/YoutubeVideoConverter.git)<br>
 <sup>Linko - React Native platform for study:</sup>
  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PachukanisProgramador/Linko.git)<br>
- <sup>Arquilles - FTP Protocol WPF Aplication</sup>
+ <sup>Arquilles - FTP Protocol WPF Application</sup>
  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PachukanisProgramador/ArquillesWPF)
 ### My Online Resume
 [![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAFBQtGlF3k/IF_0ZPheTfFwCFXp9IjkoA/view?utm_content=DAFBQtGlF3k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
