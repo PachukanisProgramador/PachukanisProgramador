@@ -23,7 +23,7 @@ I'm in love with what I'm doing. Look at my repositories and see for yourself!</
 <sup>Terminal python youtube video conversor to mp3 by direct link:</sup>
  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PachukanisProgramador/YoutubeVideoConverter.git)<br>
 <sup>Linko - React Native platform for study:</sup>
- [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PachukanisProgramador/Linko.git)
+ [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PachukanisProgramador/Linko.git)<br>
  <sup>Arquilles - FTP Protocol WPF Aplication</sup>
  [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PachukanisProgramador/ArquillesWPF)
 ### My Online Resume
